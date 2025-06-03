@@ -14,7 +14,7 @@
             line-height: 1.6;
             background-image: 
                 linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
-                url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><rect width="100" height="100" fill="none" stroke="%2300ff00" stroke-width="0.5"/></svg>');
+                url('img/bg-pattern.svg');
         }
         
         .navbar {
@@ -514,7 +514,7 @@
             <p class="subtitle typing-effect" id="typing-text"></p>
             
             <div class="image-container">
-                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" alt="رمز القرصنة" class="cyber-image">
+                <img src="img/hacker-icon.png" alt="رمز القرصنة" class="cyber-image">
             </div>
         </section>
         
@@ -523,7 +523,7 @@
             <p>نحن عـصـابـة الـظـل، مجموعة قراصنة نخبة تعمل في الظل. نقدم منتجات وخدمات حصرية للعملاء المميزين فقط.</p>
             
             <div class="image-container">
-                <img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAQABADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE3FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJycKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQAAAD6ooooA//9k=" alt="تصميم القرصنة" class="cyber-image">
+                <img src="img/cyber-design.jpg" alt="تصميم القرصنة" class="cyber-image">
             </div>
         </section>
         
@@ -533,7 +533,7 @@
             
             <div class="products-grid">
                 <div class="product-card">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="product-image" alt="أدوات اختراق">
+                    <img src="img/hacking-kit.jpg" class="product-image" alt="أدوات اختراق">
                     <h3 class="product-title">طـقـم الـقـرصـنـة الـذهـبـي</h3>
                     <p class="product-description">أدوات متكاملة لاختراق الأنظمة والحماية من الاختراق</p>
                     <p class="product-price">$999</p>
@@ -544,7 +544,7 @@
                     <div id="product1-details" class="product-details">
                         <div class="details-container">
                             <a href="#products" class="close-details">✕</a>
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="details-image" alt="أدوات اختراق">
+                            <img src="img/hacking-kit.jpg" class="details-image" alt="أدوات اختراق">
                             <h2 class="details-title">طـقـم الـقـرصـنـة الـذهـبـي</h2>
                             <p class="details-price">$999</p>
                             <p class="details-description">
@@ -564,7 +564,7 @@
                 </div>
                 
                 <div class="product-card">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="product-image" alt="برمجيات خبيثة">
+                    <img src="img/spy-software.jpg" class="product-image" alt="برمجيات خبيثة">
                     <h3 class="product-title">بـرمـجـيـات الـتـجـسـس VIP</h3>
                     <p class="product-description">حزمة برمجيات خبيثة متطورة لا يمكن اكتشافها</p>
                     <p class="product-price">$1,500</p>
@@ -575,7 +575,7 @@
                     <div id="product2-details" class="product-details">
                         <div class="details-container">
                             <a href="#products" class="close-details">✕</a>
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="details-image" alt="برمجيات خبيثة">
+                            <img src="img/spy-software.jpg" class="details-image" alt="برمجيات خبيثة">
                             <h2 class="details-title">بـرمـجـيـات الـتـجـسـس VIP</h2>
                             <p class="details-price">$1,500</p>
                             <p class="details-description">
@@ -595,7 +595,7 @@
                 </div>
                 
                 <div class="product-card">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="product-image" alt="هوية مزيفة">
+                    <img src="img/fake-id.jpg" class="product-image" alt="هوية مزيفة">
                     <h3 class="product-title">هـويـة مـزيـفـة ذهـبـيـة</h3>
                     <p class="product-description">هوية كاملة مزيفة بجودة عالية لا يمكن تمييزها</p>
                     <p class="product-price">$2,500</p>
@@ -606,7 +606,7 @@
                     <div id="product3-details" class="product-details">
                         <div class="details-container">
                             <a href="#products" class="close-details">✕</a>
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="details-image" alt="هوية مزيفة">
+                            <img src="img/fake-id.jpg" class="details-image" alt="هوية مزيفة">
                             <h2 class="details-title">هـويـة مـزيـفـة ذهـبـيـة</h2>
                             <p class="details-price">$2,500</p>
                             <p class="details-description">
@@ -626,7 +626,7 @@
                 </div>
                 
                 <div class="product-card">
-                    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="product-image" alt="دورة قرصنة">
+                    <img src="img/hacking-course.jpg" class="product-image" alt="دورة قرصنة">
                     <h3 class="product-title">دورة الـقـرصـنـة الـنـخـبـويـة</h3>
                     <p class="product-description">تعلم من القراصنة المحترفين - مستوى متقدم جداً</p>
                     <p class="product-price">$5,000</p>
@@ -637,7 +637,7 @@
                     <div id="product4-details" class="product-details">
                         <div class="details-container">
                             <a href="#products" class="close-details">✕</a>
-                            <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAA1BMVEX///+nxBvIAAAAR0lEQVR4nO3BAQEAAACCIP+vbkhAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAO8GxYgAAb0jQ/cAAAAASUVORK5CYII=" class="details-image" alt="دورة قرصنة">
+                            <img src="img/hacking-course.jpg" class="details-image" alt="دورة قرصنة">
                             <h2 class="details-title">دورة الـقـرصـنـة الـنـخـبـويـة</h2>
                             <p class="details-price">$5,000</p>
                             <p class="details-description">
@@ -678,7 +678,9 @@
             <p>مفتاح PGP: <span style="color:#ff0000">0xDEADBEEF12345678</span></p>
             <p style="color:#00ff00">تحذير: أي تسريب لهذه المعلومات سيعرضك للخطر.</p>
             
-                      </a>
+            <div class="image-container">
+                <img src="img/secure-contact.jpg" alt="اتصال مشفر" class="cyber-image">
+            </div>
         </section>
     </div>
     
@@ -733,7 +735,7 @@
                 document.getElementById('logoutBtn').style.display = 'inline-block';
                 document.getElementById('showSecureBtn').style.display = 'inline-block';
                 document.body.style.backgroundImage = 
-                    'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'100\' height=\'100\' viewBox=\'0 0 100 100\'><rect width=\'100\' height=\'100\' fill=\'none\' stroke=\'%23ff0000\' stroke-width=\'0.5\'/></svg>")';
+                    'linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/bg-pattern-red.svg")';
             } else {
                 errorMessage.style.display = 'block';
                 document.getElementById('login-form').style.animation = 'shake 0.5s';
@@ -752,7 +754,7 @@
             document.getElementById('logoutBtn').style.display = 'none';
             document.getElementById('showSecureBtn').style.display = 'none';
             document.body.style.backgroundImage = 
-                'linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\' width=\'100\' height=\'100\' viewBox=\'0 0 100 100\'><rect width=\'100\' height=\'100\' fill=\'none\' stroke=\'%2300ff00\' stroke-width=\'0.5\'/></svg>")';
+                'linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("img/bg-pattern.svg")';
             document.getElementById('username').value = '';
             document.getElementById('password').value = '';
         }
